@@ -54,6 +54,15 @@ I'm a physics graduate transitioning into **AI safety research**. With a strong 
 Simon Bernier and Kartiek Agarwal  
 *Physical Review B* **111**, 054311 (2025)
 
+**[Spatiotemporal Quenches in Long-Range Hamiltonians](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.024310)**  
+Simon Bernier and Kartiek Agarwal  
+*Physical Review B* **108**, 024310 (2023)
+
+**[Front-induced transitions control THz waves](https://doi.org/10.1038/s42005-021-00667-4)**  
+A.W. Schiff-Kearn, L. Gingras, S. Bernier, J.-M. Ménard, and D.G. Cooke  
+*Communications Physics* **4**, 162 (2021)  
+**Open Access** - Nature Publishing Group
+
 ---
 
 ### 📂 Featured Projects
